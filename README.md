@@ -1,4 +1,5 @@
-📌: Classic Windows BackDoor Is A BackDoor That Uses NetCat.After The BackDoor.txt Runs On Victim Computer It Creates A Diractory On %TEMP% In System To Store NetCat Files And Gives Access To The Victims Computer.
+ 📌: Classic Windows BackDoor Is A BackDoor That Uses NetCat.After The BackDoor.txt Runs On Victim Computer It Creates A Diractory On %TEMP% In System To Store 
+ NetCat Files And Gives Access To The Victims Computer.
 ‎ ‎ 
 ‎ 
 ‎ 
@@ -11,21 +12,21 @@
 ‎ 
 ‎ 
 ‎ 
-How To Use:
+ How To Use:
 ‎ 
-📌: After You Download Classic-Windows-BackDoor.zip From Github.
-‎ 
-‎ 
-‎ 
-📌: Extract The File And Open Classic-Windows-BackDoor.txt.
+ 📌: After You Download Classic-Windows-BackDoor.zip From Github.
 ‎ 
 ‎ 
 ‎ 
-📌: Replace "YOUR_HOST" And "YOUR_PORT" with your desired host and port.
+ 📌: Extract The File And Open Classic-Windows-BackDoor.txt.
 ‎ 
 ‎ 
 ‎ 
-📌: Than Save The File And Change <.txt> to <.bat>.
+ 📌: Replace "YOUR_HOST" And "YOUR_PORT" with your desired host and port.
+‎ 
+‎ 
+‎ 
+ 📌: Than Save The File And Change <.txt> to <.bat>.
 ‎ 
 ‎ 
 ‎ 
