@@ -24,7 +24,7 @@
 
 
  
-📌:And You Are Done.Just Run On Victims Computer.
+📌:And You Are Done . Just Run On Victims Computer.
 
 
 
