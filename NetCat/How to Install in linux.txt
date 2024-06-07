@@ -1,0 +1,3 @@
+Use this cmd in linux terminal
+
+sudo apt-get install netcat
