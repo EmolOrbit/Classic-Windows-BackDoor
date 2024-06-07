@@ -1,4 +1,4 @@
- 📌:#Classic Windows BackDoor Is A BackDoor That Uses NetCat.After The BackDoor.txt Runs On Victim Computer It Creates A Diractory On %TEMP% In System To Store 
+ 📌: #Classic Windows BackDoor Is A BackDoor That Uses NetCat.After The BackDoor.txt Runs On Victim Computer It Creates A Diractory On %TEMP% In System To Store 
  NetCat Files And Gives Access To The Victims Computer.
 
 
