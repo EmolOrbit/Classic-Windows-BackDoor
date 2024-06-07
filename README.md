@@ -7,19 +7,19 @@
  
  # How To Use:
  
- 📌:After You Download Classic-Windows-BackDoor.zip From Github.
+ 📌After You Download Classic-Windows-BackDoor.zip From Github.
 
 
  
- 📌:Extract The File And Open Classic-Windows-BackDoor.txt.
+ 📌Extract The File And Open Classic-Windows-BackDoor.txt.
 
 
  
- 📌:Replace "YOUR_HOST" And "YOUR_PORT" with your desired host and port.
+ 📌Replace "YOUR_HOST" And "YOUR_PORT" with your desired host and port.
 
 
  
- 📌:Than Save The File And Change <.txt> to <.bat>.
+ 📌Than Save The File And Change <.txt> to <.bat>.
 
 
  
