@@ -1,4 +1,4 @@
-# Classic Windows BackDoor Is A BackDoor That Uses NetCat.After The BackDoor.txt Runs On Victim Computer It Creates A Diractory On %TEMP% In System To Store NetCat Files And Gives Access To The Victims Computer.
+# Classic Windows BackDoor Is A BackDoor That Uses NetCat.After The BackDoor.bat Runs On Victim Computer It Creates A Diractory On %TEMP% In System To Store NetCat Files And Gives Access To The Victims Computer.
 
 
 ![_12321eea-7aee-4e55-97b8-341715a35ac4](https://github.com/EmolOrbit/Classic-Windows-BackDoor/assets/172029942/76d5dab5-2d10-4180-876d-5bfc8452098d)
